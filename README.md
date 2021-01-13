@@ -1,2 +1,2 @@
 # projetoCoreBiz
-Projeto para treino de HTML e CSS.
+Contribute to alinefernandams/projetoCorebiz html/css development by creating an account on GitHub.
